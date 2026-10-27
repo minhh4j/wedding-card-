@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "wedding-desktop", "runtimeExecutable": "npm", "runtimeArgs": ["--prefix", "C:/Users/mnhh4/OneDrive/Desktop/wedding-invitation/my-app", "run", "dev"], "port": 3002 }
+  ]
+}
