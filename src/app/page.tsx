@@ -706,7 +706,7 @@ export default function Home() {
         <div className="flex items-center justify-center gap-4 sm:gap-8 mt-10 serif">
           <div className="text-right">
             <div className="uppercase tracking-widest text-sm">Saturday</div>
-            <div className="text-sm text-[var(--gold-light)]">4:30 – 8:00 PM</div>
+            <div className="text-lg sm:text-2xl whitespace-nowrap mt-1 text-[var(--gold-light)]">4:30 – 8:00 PM</div>
           </div>
           <div className="border-x border-[var(--gold-light)] px-5 sm:px-8">
             <span
@@ -731,7 +731,7 @@ export default function Home() {
           </div>
           <div className="text-left">
             <div className="uppercase tracking-widest text-sm">January</div>
-            <div className="text-sm text-[var(--gold-light)]">2027</div>
+            <div className="text-lg sm:text-2xl mt-1 text-[var(--gold-light)]">2027</div>
           </div>
         </div>
         <p className="serif text-xl mt-8 uppercase tracking-wider">{VENUE}</p>
