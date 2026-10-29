@@ -8,7 +8,7 @@ const MAP_Q = encodeURIComponent("Olive Convention Centre Kadappadi Kerala");
 
 const weddings = [
   {
-    groom: "Gokul Krishnan",
+    groom: "Gokul",
     bride: "Ardra",
     brideParents: "D/o. Rajeev T & Smitha N R",
     brideHome: "‘Sreebhavan’, Cheloor, Thattarakkal, Kunnamangalam",
@@ -20,7 +20,7 @@ const weddings = [
     bgPos: "center top / cover",
   },
   {
-    groom: "Rahul Krishnan",
+    groom: "Rahul",
     bride: "Jisna",
     brideParents: "D/o. Suresh K V & Sajini P C",
     brideHome: "Koyappa, Vazhakkalil, Kondotty",
@@ -631,13 +631,13 @@ export default function Home() {
           <p className="serif uppercase tracking-[0.4em] text-xs sm:text-sm text-[var(--gold)]">॥ Save the Date ॥</p>
           <p className="italic text-sm mt-3 opacity-80">Together with their families</p>
 
-          <h1 className="script name text-5xl sm:text-7xl mt-6">Gokul Krishnan</h1>
+          <h1 className="script name text-5xl sm:text-7xl mt-6">Gokul</h1>
           <p className="script text-3xl text-[var(--gold)] -my-1">&amp;</p>
           <h1 className="script name text-5xl sm:text-7xl">Ardra</h1>
 
           <div className="lotus-rule my-5"><Lotus /></div>
 
-          <h2 className="script name text-[2.6rem] sm:text-6xl">Rahul Krishnan</h2>
+          <h2 className="script name text-[2.6rem] sm:text-6xl">Rahul</h2>
           <p className="script text-3xl text-[var(--gold)] -my-1">&amp;</p>
           <h2 className="script name text-[2.6rem] sm:text-6xl">Jisna</h2>
 
